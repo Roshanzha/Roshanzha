@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Open Source Contribution.
 - 💞️ I’m looking to collaborate on Intrresting Projects !
 - 📫 Contact Me : https://linktr.ee/ROSHANZHA
+- 
+![GitHub Views](https://komarev.com/ghpvc/?username=roshanzha)
 
 <!---
 Roshanzha/Roshanzha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
