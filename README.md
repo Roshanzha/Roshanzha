@@ -38,9 +38,5 @@ Hi! I'm Roshan Jha, a recent graduate in Computer Science and engineering ,  I'm
 - [LinkTree](https://linktr.ee/ROSHANZHA)
 - Email: email@roshanjha.com.np
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
