@@ -48,7 +48,7 @@ Hi! I'm Roshan Jha, a recent graduate in Computer Science and engineering ,  I'm
 <br />
 
 
-## Connect with Me
+## Connect with Me >>
 
 - [LinkedIn](https://www.linkedin.com/in/roshanzha/)
 - [Twitter](https://twitter.com/roshanjhazha)
