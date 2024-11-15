@@ -54,7 +54,7 @@ Hi! I'm Roshan Jha, a recent graduate in Computer Science and engineering ,  I'm
 - [Twitter](https://twitter.com/roshanjhazha)
 - [GitHub](https://github.com/roshanzha)
 - [LinkTree](https://linktr.ee/ROSHANZHA)
-- Email: email@roshanjha.com.np
+- Email: mail@roshanjha.com.np
 
 
 
