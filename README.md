@@ -7,6 +7,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Open Source Contribution.
 - 💞️ I’m looking to collaborate on Intrresting Projects !
+- 📫 How to reach me **roshanzhajha@gmail.com** / **roshanjhazha@outlook.com**
 - 📫 Contact Me : https://linktr.ee/ROSHANZHA
 - 
 ![GitHub Views](https://komarev.com/ghpvc/?username=roshanzha)
@@ -25,8 +26,12 @@ You can click the Preview link to take a look at your changes.
 Hi! I'm Roshan Jha, a recent graduate in Computer Science and engineering ,  I'm passionate about technology, coding, and continuous learning. Currently, I'm working on various projects related to web development and machine learning.
 
 # 📊 GitHub Stats:
-![ROSHAN Github Status](https://github-readme-stats.vercel.app/api?username=roshanzha&show_icons=true&theme=transparent)
-![](https://github-readme-streak-stats.herokuapp.com/?user=roshanzha&theme=radical&hide_border=false)<br/>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=Roshanzha&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Roshanzha&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+</div>
+
 
 ### ⚡ Languages and Tools
 
